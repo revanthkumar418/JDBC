@@ -1,0 +1,10 @@
+class demo1
+
+{
+	public static void main(String[]args)
+	{
+		int a=2;
+		int v=004;
+		System.out.println(a+v);
+	}
+}
